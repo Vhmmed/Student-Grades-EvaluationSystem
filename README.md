@@ -28,26 +28,26 @@ Learning Objectives:
 
     Perform total and percentage calculations dynamically.
 
-Enter Your Name: Ahmed
-Enter Grade in Math: 95
-Enter Grade in Geo: 80
-Enter Grade in Physics: 60
-Enter Grade in Data: 70
-Enter Grade in SQL: 40
-
-===== Grades & Evaluation for Ahmed =====
-Math: 95 -> A+   
-Geo: 80 -> B+    
-Physics: 60 -> D+ 
-Data: 70 -> C+    
-SQL: 40 -> F 
-
---- Total Marks And Total Degrees ---
-Ahmed got 345 marks, Percentage: 69.00%
-
-Physics: 60 -> D+ (Yellow)
-Data: 70 -> C+    (Yellow)
-SQL: 40 -> F+    (Red)
+    Enter Your Name: Ahmed
+    Enter Grade in Math: 95
+    Enter Grade in Geo: 80
+    Enter Grade in Physics: 60
+    Enter Grade in Data: 70
+    Enter Grade in SQL: 40
+    
+    ===== Grades & Evaluation for Ahmed =====
+    Math: 95 -> A+   
+    Geo: 80 -> B+    
+    Physics: 60 -> D+ 
+    Data: 70 -> C+    
+    SQL: 40 -> F 
+    
+    --- Total Marks And Total Degrees ---
+    Ahmed got 345 marks, Percentage: 69.00%
+    
+    Physics: 60 -> D+ 
+    Data: 70 -> C+    
+    SQL: 40 -> F  
 
 --- Total Marks And Total Degrees ---
 Ahmed got 345 marks, Percentage: 69.00%
