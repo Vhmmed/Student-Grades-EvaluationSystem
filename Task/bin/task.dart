@@ -43,7 +43,13 @@ MyFunction() {
   }
   double percentage = total / (subjects.length * 100) * 100;
 
-  String status = (percentage >= 50) ? "successful" : "Failed";
+String status = "";
+
+if (percentage >= 50) {
+  status = "Successful";
+} else {
+  status = "Failed";
+}
 
   print("--- Total Marks And Total Degrees ---");
   print("$name got $total marks, Percentage: ${percentage.toStringAsFixed(2)}%");
